@@ -65,6 +65,7 @@ class PassaroFake(AtorFake):
         self.colidir_com_chao_executado = True
 
 
+
 class FaseTestes(TestCase):
     def teste_adicionar_obstaculo(self):
         fase = Fase()
